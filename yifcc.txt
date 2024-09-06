@@ -3,7 +3,8 @@ ss.yifss.us.kg:2096#ss官方
 s1.yifss.us.kg:2096#s1ss移动官方
 s1.yifcc.us.kg:2096#s1cc移动官方
 s1.yifcc.dns.army:2096#dns移动官方
-s2.yifcc.us.kg:2096#s2cc移动官方
+s2.yifcc.dns.army:2096#dns联通官方
+s2.yifcc.us.kg:2096#s2cc联通官方
 aliyun.2096.us.kg:2096#移动天诚
 172.64.152.99:2096#移动官方
 104.19.32.99:2096#移动官方
