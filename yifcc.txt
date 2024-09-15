@@ -1,3 +1,8 @@
+www.yifcmz.v6.navy#cmz官方tls
+www.yifcc.rr.nu#yifcc官方tls
+cf.090227.xyz#三网官方优选
+ct.090227.xyz#电信官方优选
+cmcc.090227.xyz#移动官方优选
 cc.yifcc.us.kg:2096#cc官方
 ss.yifss.us.kg:2096#ss官方
 s1.yifss.us.kg:2096#s1ss移动官方
