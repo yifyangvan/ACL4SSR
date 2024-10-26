@@ -1,3 +1,4 @@
+aliyun.yifcc.dns.navy:1234#CFNAT官方HKG
 www.yifcmz.v6.navy#cmz官方tls
 www.yifcc.rr.nu#yifcc官方tls
 cf.090227.xyz#三网官方优选
