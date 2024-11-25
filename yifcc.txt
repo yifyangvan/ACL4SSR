@@ -1,5 +1,6 @@
-192.168.2.3:1234#CFNAT官方HKG
-aliyun.yifcc.dns.navy:1234#CFNAT官方ali
+192.168.2.3:443#CFNAT官方LAX
+192.168.2.9:443#CFNAT官方HKG
+192.168.2.251:443#CFNAT官方SJC
 www.yifcmz.v6.navy#cmz官方tls
 www.yifcc.rr.nu#yifcc官方tls
 cf.090227.xyz#三网官方优选
